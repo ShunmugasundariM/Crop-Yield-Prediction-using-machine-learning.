@@ -1,2 +1,2 @@
-# Crop-Yield-Prediction-using-machine-learning.
-Machine Learning project for predicting crop yield based on environmental and agricultural factors.
+# Crop-Yield-Prediction-Using-Machin-Learning-Python
+Crop Yield Prediction Using Machin Learning Python
